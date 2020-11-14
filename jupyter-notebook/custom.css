@@ -1,0 +1,111 @@
+/* This is a file for customizing jupyter notebook */
+
+/* This file is located in C:\Users\jbogg\Anaconda3\Lib\site-packages\notebook\static\custom */
+
+/* Link for the tutorial
+https: //towardsdatascience.com/10-practical-tips-you-need-to-know-to-personalize-jupyter-notebook-fbd202777e20 */
+
+/*
+Placeholder for custom user CSS
+
+mainly to be overridden in profile/static/custom/custom.css
+
+This will always be an empty file
+*/
+
+/* #ipython_notebook::before{
+    content:"Welcome to my Jupyter Notebook";
+    font-family: Verdana;
+    font-weight: 700;
+    color: orange;
+}
+
+#ipython_notebook img{
+    display:none;
+} */
+
+body > #header {
+    background: #99badd;
+}
+
+#notebook_name {
+    font-weight: 500;
+    color: white;
+}
+
+.checkpoint_status,
+.autosave_status {
+    color: white;
+}
+
+.navbar-default {
+    background: none;
+    border: none;
+}
+
+.navbar-default .navbar-nav>li>a,
+#kernel_indicator {
+    color: white;
+    transition: all 0.25s;
+}
+
+.container {
+    width: 95% !important;
+}
+
+
+/* Remove border between cells */
+/* div.input_area {
+    border: none;
+    border-radius: 0;
+    background: #f7f7f7;
+    line-height: 1.5em;
+    margin: 0.5em 0;
+    padding: 0;
+}
+
+#notebook-container {
+    box-shadow: none !important;
+    background-color: white;
+} */
+
+/* Animation to selected cell */
+div.cell {
+    transition: all 0.25s;
+    border: none;
+    position: relative;
+    top: 0;
+}
+
+div.cell.selected,
+div.cell.selected.jupyter-soft-selected {
+    border: none;
+    background: transparent;
+    box-shadow: 0 6px 18px #aaa;
+    z-index: 10;
+    top: -10px;
+}
+
+/* Customizing output cell */
+/* .output {
+    align-items: center;
+} */
+
+/* Customizing data/ table output */
+/* .dataframe {
+    /* dataframe atau table */
+    background: white;
+    box-shadow: 0px 1px 2px #bbb;
+}
+
+.dataframe thead th,
+.dataframe tbody td {
+    text-align: center;
+    padding: 1em;
+} */
+
+/* Remove line box */
+/* div.prompt,
+div.tooltiptext pre {
+    display: none
+} */
