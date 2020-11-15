@@ -17,3 +17,7 @@ https://www.youtube.com/watch?v=rfscVS0vtbw
 https://coding-bootcamp-dataviz-prework.readthedocs-hosted.com/en/latest/modules/curling-up-with-python/
 
 https://pypi.org/project/yahoofinancials/
+
+https://www.streamlit.io/
+
+https://pypi.org/project/investpy/

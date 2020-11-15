@@ -1,18 +1,13 @@
-https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
+https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/data-types/
 
-https://jsonformatter.org/json-pretty-print
+https://www.excelforum.com/excel-programming-vba-macros/530980-running-macro-vba-in-multiple-worksheets.html
 
-https://python.libhunt.com/categories/275-web-crawling
+https://stackoverflow.com/questions/46657645/excel-vba-how-to-exit-loop-if-blank-cell-found
 
-https://numpy.org/doc/stable/reference/generated/numpy.linspace.html
+https://www.wallstreetmojo.com/vba-conditional-formatting/
 
-https://realpython.com/python-f-strings/
+https://www.excelanytime.com/excel/index.php?option=com_content&view=article&id=105:find-smallest-and-largest-value-in-range-with-vba-excel&catid=79&Itemid=475
 
-https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/
+https://stackoverflow.com/questions/54468999/returning-beginning-and-ending-row-numbers-with-matching-values-using-vba
 
-https://developers.google.com/edu/python/lists
-
-https://www.youtube.com/watch?v=rfscVS0vtbw
-
-https://coding-bootcamp-dataviz-prework.readthedocs-hosted.com/en/latest/modules/curling-up-with-python/
-
+https://www.automateexcel.com/vba/data-types-variables-constants/
