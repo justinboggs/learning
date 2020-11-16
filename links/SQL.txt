@@ -1,0 +1,15 @@
+https://docs.sqlalchemy.org/en/13/core/connections.html#sqlalchemy.engine.ResultProxy
+
+https://sqlbolt.com/lesson/select_queries_order_of_execution
+
+http://mystery.knightlab.com/
+
+https://app.quickdatabasediagrams.com/#/
+
+https://docs.mongodb.com/manual/core/index-wildcard/
+
+https://code.visualstudio.com/docs/azure/mongodb
+
+https://docs.mongodb.com/manual/reference/method/#js-administrative-methods
+
+https://docs.mongodb.com/manual/reference/operator/aggregation/set/
