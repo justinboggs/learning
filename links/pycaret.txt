@@ -1,0 +1,7 @@
+https://pycaret.org/
+
+https://www.youtube.com/watch?v=ZeQVkEWo2x0&feature=youtu.be
+
+https://towardsdatascience.com/modeling-in-seconds-using-pycaret-as-a-tool-for-data-science-fast-decision-making-17c2c5642e17
+
+https://towardsdatascience.com/machine-learning-in-tableau-with-pycaret-166ffac9b22e

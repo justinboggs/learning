@@ -13,3 +13,5 @@ https://10ax.online.tableau.com/#/site/jboggsdev513272/home
 https://tableau.github.io/
 
 https://public.tableau.com/en-us/s/blog/2018/12/struggling-keep-new-years-fitness-resolutions-heres-how-stravas-new-web-data
+
+https://towardsdatascience.com/machine-learning-in-tableau-with-pycaret-166ffac9b22e
