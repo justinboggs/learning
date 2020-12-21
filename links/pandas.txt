@@ -16,3 +16,4 @@ https://www.webpages.uidaho.edu/~stevel/504/pandas%20dataframe%20notes.pdf
 
 https://towardsdatascience.com/plotting-in-pandas-just-got-prettier-289d0e0fe5c0
 
+https://datavizpyr.com/how-to-make-a-time-series-plot-with-rolling-average-in-python/
